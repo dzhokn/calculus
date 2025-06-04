@@ -1,6 +1,6 @@
 # Calculus
 
-In this we cover the essence of Calculus:
+In this chapter we cover the essence of Calculus:
 * Limits
 * Derivatives
 * Integrals
